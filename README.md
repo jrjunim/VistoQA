@@ -1,7 +1,8 @@
 # VistoQA
 Artefatos Visto QA CX
 
-obs: Executar a classe MaquinaTeste via Junit
+obs: Executar a classe MaquinaTeste via Junit.
+
 O projeto incluído nesta data, 17/04, contém a classe CalculaPreço, responsável pelos seguintes testes pendentes:
 
 		CalculaPreco calc = new CalculaPreco();
